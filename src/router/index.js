@@ -23,13 +23,13 @@ const routes = [
     name: 'characters',
 
     component: () => import('../views/Characters.vue')
-  }
+  },
   {
     path: '/vsCPU',
     name: 'vsCPU',
 
     component: () => import('../views/Characters.vue')
-  }  {
+  },  {
     path: '/Highscore',
     name: 'Highscore',
 
