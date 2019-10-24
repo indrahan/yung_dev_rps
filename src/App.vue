@@ -3,7 +3,9 @@
     <div id="nav">
       <router-link to="/">Home</router-link>|
       <router-link to="/about">About</router-link> |
-      <router-link to="/characters">Charaasdasdcters</router-link>
+      <router-link to="/characters">Characters</router-link>
+      <router-link to="/characters">vs. CPU</router-link>
+      <router-link to="/characters">High Score</router-link>
     </div>
     <router-view />
   </div>

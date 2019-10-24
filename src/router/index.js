@@ -24,7 +24,17 @@ const routes = [
 
     component: () => import('../views/Characters.vue')
   }
+  {
+    path: '/vsCPU',
+    name: 'vsCPU',
 
+    component: () => import('../views/Characters.vue')
+  }  {
+    path: '/Highscore',
+    name: 'Highscore',
+
+    component: () => import('../views/Characters.vue')
+  }
 ]
 
 const router = new VueRouter({
