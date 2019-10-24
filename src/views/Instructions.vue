@@ -1,12 +1,13 @@
 <template>
-  <div>
-    <h1>Characters</h1>
-  </div>
+  <div><H1>How to play</H1></div>
 </template>
 
 <script>
-export default {};
+export default {
+
+}
 </script>
 
 <style>
+
 </style>

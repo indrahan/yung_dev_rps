@@ -6,6 +6,9 @@
       <router-link to="/characters">Characters</router-link>
       <router-link to="/characters">vs. CPU</router-link>
       <router-link to="/characters">High Score</router-link>
+      <router-link to="/characters">Characters</router-link> |
+      <router-link to="/3110">3110</router-link> |
+      <router-link to="/instructions">Instructions</router-link>
     </div>
     <router-view />
   </div>
